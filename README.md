@@ -7,7 +7,7 @@
 ในที่สุดก็ทำทันถึงมันไม่ได้ออกมาดีมากแต่มันก็ออกมาในระดับที่น่าพอใจเลยฮรือ
 ```
 ## รายชื่อที่เกี่ยวข้อง
-- KuraAlan https://youtu.be/lsXBNQPyCdo (เจ้าของวันเกิด)
+- KuraAlan https://youtu.be/lsXBNQPyCdo?t=6447 (เจ้าของวันเกิด)
 - Molly https://www.youtube.com/@mollyehe (คนเขียนบท)
 - Mikihina https://github.com/MikihinaSann (ระบบบางส่วน)
 - KafuneCH https://www.youtube.com/@kafunech (คนคิดโปรเจ็ค)
