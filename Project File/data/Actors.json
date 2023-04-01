@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Alan","characterIndex":0,"characterName":"Alan_avatar","classId":1,"equips":[],"faceIndex":0,"faceName":"Alan_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alan","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"mairi","characterIndex":0,"characterName":"mairi_avatar","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"mairi","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mairi","nickname":"Mairi","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"molly_avatar","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"molly_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Molly","nickname":"Molly","note":"","profile":""},
+{"id":4,"battlerName":"kafune","characterIndex":0,"characterName":"kfune_avatar","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"kafune","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kafune","nickname":"Kafune","note":"","profile":""}
+]
